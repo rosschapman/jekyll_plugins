@@ -1,4 +1,4 @@
-Ross' jekuyll plugins place
+Ross' single origin, fair trade jekyll plugins
 ==============
 
 <img src="http://www.brettdangerfield.com/static/img/jekyll_logo_white.png" width="100" />
